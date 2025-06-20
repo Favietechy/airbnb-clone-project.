@@ -10,3 +10,19 @@ Listing Detailed View
 Simple Checkout View in a table view
 
 A user-friendly booking system on a housing website is crucial. It leads to higher satisfaction, increased conversion rates, and more repeat visits. An intuitive design simplifies finding properties and booking viewings, reducing frustration and boosting trust. This ultimately drives business success and provides a competitive edge.
+
+Figma Design Specifications
+Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+Typography:
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+Identifying design properties in a mockup is crucial. It helps **visualize the final product**, **catch usability issues early**, and **ensure brand consistency** before development. This process facilitates **clear communication** among teams, gathers **focused feedback**, and ultimately **saves time and money** by preventing costly reworks. It's the blueprint for effective design implementation.
